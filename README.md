@@ -4,7 +4,7 @@ link2Json
 
 ## Example how to use
 
-```
+```python
 import link2json
 
 my_dict = {'a': 123, 'b': 234}
