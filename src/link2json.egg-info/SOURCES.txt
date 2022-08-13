@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/link2json/__init__.py
+src/link2json/link.py
+src/link2json.egg-info/PKG-INFO
+src/link2json.egg-info/SOURCES.txt
+src/link2json.egg-info/dependency_links.txt
+src/link2json.egg-info/top_level.txt
